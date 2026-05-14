@@ -500,5 +500,6 @@ Handled using:
 # Author
 
 **Zumare Pasha**
+Data Engineer
 
 AWS | PySpark | Streaming | Delta Lake | Data Engineering
