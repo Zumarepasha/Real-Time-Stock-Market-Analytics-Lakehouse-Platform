@@ -499,7 +499,7 @@ Handled using:
 
 # Author
 
-**Zumare Pasha**
+**Zumare Pasha**  
 Data Engineer
-
-AWS | PySpark | Streaming | Delta Lake | Data Engineering
+  
+Focused on AWS, Spark, Delta Lake, Streaming Systems, and Scalable Data Platforms
