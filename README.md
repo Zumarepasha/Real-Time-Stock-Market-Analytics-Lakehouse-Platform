@@ -290,15 +290,15 @@ realtime-stock-market-lakehouse/
 ├── terraform/
 │   ├── provider.tf
 │   ├── s3.tf
-│   ├── iam.tf
 │   ├── glue.tf
 │   ├── mwaa.tf
 │   ├── sns.tf
-│   └── variables.tf
+│   ├── cloudwatch.tf
+│   └── kinesis.tf
 │
 ├── glue_jobs/
-│   ├── silver_incremental_etl.py
-│   ├── gold_streaming_aggregation.py
+│   ├── silver_streaming_etl.py
+│   ├── gold_streaming_etl.py
 │   └── redshift_loader.py
 │
 ├── architecture/
